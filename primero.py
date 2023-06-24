@@ -1,2 +1,2 @@
-Hola="Hola a todos"
-print("Hola")
+Hola= "hello"
+print (Hola)
